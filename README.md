@@ -12,7 +12,7 @@ This project turns raw Twitter activity data into a single-page, decision-ready 
 
 ## 🖼️ Dashboard Preview
 
-<img width="510" height="903" alt="Screenshot 2026-07-25 215617" src="https://github.com/user-attachments/assets/2115cfdd-dd27-4eaf-bf6e-ec281c93f49f" />
+<img width="903" height="510" alt="Screenshot 2026-07-25 215617" src="https://github.com/user-attachments/assets/67101bc3-1433-4b18-b5cc-9fd46c53caec" />
 
 
 ## 🔑 Key Features
